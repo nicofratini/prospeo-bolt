@@ -1,0 +1,63 @@
+{
+  "common": {
+    "appName": "Prospeo",
+    "allRightsReserved": "Tous droits réservés",
+    "english": "English",
+    "french": "Français",
+    "lightMode": "Mode clair",
+    "darkMode": "Mode sombre",
+    "termsOfService": "Conditions d'utilisation",
+    "privacyPolicy": "Politique de confidentialité",
+    "contact": "Contact",
+    "confirm": "Confirmer",
+    "cancel": "Annuler",
+    "error": "Une erreur est survenue",
+    "save": "Sauvegarder",
+    "skipToContent": "Passer au contenu principal",
+    "never": "Jamais",
+    "actions": "Actions",
+    "view": "Voir",
+    "edit": "Modifier",
+    "delete": "Supprimer",
+    "retry": "Réessayer",
+    "back": "Retour",
+    "clear": "Effacer"
+  },
+  "onboarding": {
+    "step": "Étape {current} sur {total}",
+    "back": "Retour",
+    "next": "Suivant",
+    "skip": "Passer cette étape",
+    "finish": "Terminer la configuration",
+    "steps": {
+      "welcome": "Bienvenue",
+      "property": "Configuration du bien",
+      "aiAgent": "Configuration de l'agent IA",
+      "features": "Aperçu des fonctionnalités"
+    },
+    "features": {
+      "title": "Tout est prêt !",
+      "description": "Voici ce que vous pouvez faire avec Prospeo :",
+      "calendar": {
+        "title": "Calendrier intelligent",
+        "description": "Gérez vos visites et rendez-vous avec notre système de calendrier intégré. Synchronisez avec Cal.com pour une planification simplifiée.",
+        "action": "Ouvrir le calendrier"
+      },
+      "calls": {
+        "title": "Gestion des appels IA",
+        "description": "Laissez votre agent IA gérer les demandes de biens 24h/24. Consultez les transcriptions, enregistrements et analyses des appels.",
+        "action": "Voir l'historique des appels"
+      },
+      "analytics": {
+        "title": "Analyses de performance",
+        "description": "Suivez la performance de vos biens, les taux de conversion des leads et l'efficacité de votre agent IA avec des analyses détaillées.",
+        "action": "Voir les analyses"
+      },
+      "properties": {
+        "title": "Gestion des biens",
+        "description": "Gérez facilement vos annonces immobilières, mettez à jour les détails et suivez les changements de statut.",
+        "action": "Gérer les biens"
+      }
+    }
+  }
+}

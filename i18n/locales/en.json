@@ -1,0 +1,63 @@
+{
+  "common": {
+    "appName": "Prospeo",
+    "allRightsReserved": "All rights reserved",
+    "english": "English",
+    "french": "Français",
+    "lightMode": "Light Mode",
+    "darkMode": "Dark Mode",
+    "termsOfService": "Terms of Service",
+    "privacyPolicy": "Privacy Policy",
+    "contact": "Contact",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "error": "An error occurred",
+    "save": "Save",
+    "skipToContent": "Skip to main content",
+    "never": "Never",
+    "actions": "Actions",
+    "view": "View",
+    "edit": "Edit",
+    "delete": "Delete",
+    "retry": "Try Again",
+    "back": "Back",
+    "clear": "Clear"
+  },
+  "onboarding": {
+    "step": "Step {current} of {total}",
+    "back": "Back",
+    "next": "Next",
+    "skip": "Skip this step",
+    "finish": "Complete Setup",
+    "steps": {
+      "welcome": "Welcome",
+      "property": "Property Setup",
+      "aiAgent": "AI Agent Setup",
+      "features": "Features Overview"
+    },
+    "features": {
+      "title": "You're All Set!",
+      "description": "Here's what you can do with Prospeo:",
+      "calendar": {
+        "title": "Smart Calendar",
+        "description": "Manage your property viewings and appointments with our integrated calendar system. Sync with Cal.com for seamless scheduling.",
+        "action": "Open Calendar"
+      },
+      "calls": {
+        "title": "AI Call Management",
+        "description": "Let your AI agent handle property inquiries 24/7. Review call transcripts, recordings, and analytics.",
+        "action": "View Call History"
+      },
+      "analytics": {
+        "title": "Performance Analytics",
+        "description": "Track your property performance, lead conversion rates, and AI agent effectiveness with detailed analytics.",
+        "action": "View Analytics"
+      },
+      "properties": {
+        "title": "Property Management",
+        "description": "Easily manage your property listings, update details, and track status changes.",
+        "action": "Manage Properties"
+      }
+    }
+  }
+}
